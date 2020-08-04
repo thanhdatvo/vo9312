@@ -1,4 +1,4 @@
-### Hi there, I'm Thanh Dat Vo [website] 👋
+### Hi there, I'm [Thanh Dat Vo][website] 👋
 
 ## I'm a Developer and Researcher!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="vo9312.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<!-- <img align="left" alt="vo9312 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+<!-- [<img align="left" alt="vo9312 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="vo9312 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="vo9312 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!-- <img align="left" alt="vo9312 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
