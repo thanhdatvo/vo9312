@@ -37,9 +37,9 @@
 <br />
 <br />
 
----
+<!-- --- -->
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
 <!-- - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 - [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
@@ -48,9 +48,10 @@
 - [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4) -->
 <!-- YOUTUBE:END -->
 
----
 
-### 📕 Latest Blog Posts
+<!-- --- -->
+
+<!-- ### 📕 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Microinteractions: Password Validation Animation](https://dev.to/vo9312/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/vo9312/notion-youtube-a-powerful-combination-for-productivity-1def)
