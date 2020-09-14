@@ -1,6 +1,6 @@
 ### Hi there, I'm [Thanh Dat, Vo][website] 👋
 
-## I'm a Developer and Researcher!
+## I'm a Software Engineer!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🌱 I love research about IT things 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
